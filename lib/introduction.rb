@@ -3,4 +3,4 @@ def introduction(name)
 end
 
 def introduction_with_language(name,language)
-  puts
+  puts ""i, my name is Dan and I am learning to program in "
